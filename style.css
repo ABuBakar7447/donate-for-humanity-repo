@@ -1,0 +1,21 @@
+body{
+    font-family: 'Arvo', serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 70px;
+    
+}
+
+.biriani{
+    text-align: center;
+    background-image: url(donation5.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 200px;
+    color: white;
+}
+
+
+
