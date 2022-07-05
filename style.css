@@ -4,17 +4,26 @@ body{
     margin: 0%;
 }
 h1{
-    font-size: 70px;
+    font-size: 55px;
     
 }
 
 .biriani{
     text-align: center;
-    background-image: url(donation5.jpg);
+    background-image: url(donation13.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
-    padding: 200px;
+    padding: 140px;
     color: white;
+}
+.button-link{
+    text-decoration: none;
+    background-image: linear-gradient(yellow, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: aliceblue;
+
 }
 
 
