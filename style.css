@@ -11,7 +11,8 @@ h2{
     font-size: 40px;
 }
 
-.biriani{ 
+.biriani{
+    display: block; 
     background-image: url(donation13.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
@@ -19,18 +20,22 @@ h2{
     color: white;
 }
 .halim{
+    
     text-align: center;
     line-height: normal;
+    margin-top: 50px;
     
 }
 
 .button-link{
+    text-align: center;
     text-decoration: none;
     background-image: linear-gradient(yellow, tomato);
     padding: 10px 40px;
     border-radius: 5px;
     font-weight: bold;
     color: aliceblue;
+    
 
 }
 
@@ -57,4 +62,25 @@ h2{
     border: 2px solid red;
     background-color: rgba(255, 0, 0, 0.068);
 }
+
+.alu{
+    text-align: center;
+    font-size: 20px;
+    border: none;
+    margin-top: 50px;
+    margin-left: 25%;
+    width: 700px;
+    border-bottom: 1px solid black;
+    
+    
+}
+
+
+.donation-plan{
+    display: flex;
+    border: 2px solid white;
+    padding: 50px 50px;
+}
+
+
 
