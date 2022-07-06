@@ -11,19 +11,20 @@ h2{
     font-size: 40px;
 }
 
-.biriani{
+.background-edit{
     display: block; 
     background-image: url(donation13.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
-    padding: 155px;
+    padding: 200px;
     color: white;
 }
 .halim{
     
     text-align: center;
     line-height: normal;
-    margin-top: 50px;
+    margin-top: 40px;
+    margin-bottom: 100px;
     
 }
 
@@ -68,7 +69,7 @@ h2{
     font-size: 20px;
     border: none;
     margin-top: 50px;
-    margin-left: 25%;
+    margin-left: 27%;
     width: 700px;
     border-bottom: 1px solid black;
     
@@ -145,5 +146,31 @@ h3{
     width: 50%;
     margin-left: 25%;
     padding: 50px 50px;
+    border: none;
+    background-color: rgba(255, 228, 196, 0.534);
     
+}
+
+.kalu{
+    text-align: left;
+    font-size: 20px;
+    margin-top: 50px;
+    padding: 10px 10px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 5px;
+    
+    
+}
+
+.footer-class{
+    background-color: rgba(0, 0, 0, 0.986);
+    text-align: center;
+    color: whitesmoke;
+    width: 100%;
+    height: 250px;
+}
+.footer-class h2{
+    color:crimson;
+    padding-top: 50px;
 }
