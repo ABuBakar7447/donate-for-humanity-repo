@@ -11,6 +11,12 @@ h2{
     font-size: 40px;
 }
 
+h3{
+    font-weight: bolder;
+    font-size: 24px;
+}
+
+
 .background-edit{
     display: block; 
     background-image: url(donation13.jpg);
@@ -19,13 +25,23 @@ h2{
     padding: 200px;
     color: white;
 }
-.halim{
+.Interface-edit{
     
     text-align: center;
     line-height: normal;
-    margin-top: 40px;
+    margin-top: 80px;
     margin-bottom: 100px;
     
+}
+
+.button{
+
+        text-align: center;
+        line-height: normal;
+        margin-top: 55px;
+        margin-bottom: 100px;
+        
+
 }
 
 .button-link{
@@ -41,7 +57,7 @@ h2{
 }
 
 
-.murgi{
+.Amount{
     display: flex;
     margin-left: 20%;
 }
@@ -59,17 +75,17 @@ h2{
     
 }
 
-.poisha{
+#poisha{
     border: 2px solid red;
     background-color: rgba(255, 0, 0, 0.068);
 }
 
-.alu{
+.more-amount{
     text-align: center;
     font-size: 20px;
     border: none;
     margin-top: 50px;
-    margin-left: 27%;
+    margin-left: 24%;
     width: 700px;
     border-bottom: 1px solid black;
     
@@ -77,14 +93,9 @@ h2{
 }
 
 
-.donation-plan{
-    display: flex;
-    
-    
-}
-h3{
-    font-weight: bolder;
-    font-size: 24px;
+.container-flex{
+    display: flex; 
+    margin-top: 100px;
 }
 
 
@@ -120,11 +131,7 @@ h3{
 }
 
 
-.container-flex{
-    display: flex;
-    
-    margin-top: 100px;
-}
+
 .donation-survive-width{
     width: 50%;
     margin-left: 50px;
@@ -142,16 +149,17 @@ h3{
 
 .border{
     text-align: center;
-    border: 1px solid black;
+    
     width: 50%;
-    margin-left: 25%;
+    margin: auto;
+    margin-bottom: 100px;
     padding: 50px 50px;
     border: none;
     background-color: rgba(255, 228, 196, 0.534);
     
 }
 
-.kalu{
+.email-edit{
     text-align: left;
     font-size: 20px;
     margin-top: 50px;
