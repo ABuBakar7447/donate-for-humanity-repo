@@ -137,7 +137,13 @@ h3{
     height: 100%;
     border-radius: 5px;
     
-    
-   
+}
 
+.border{
+    text-align: center;
+    border: 1px solid black;
+    width: 50%;
+    margin-left: 25%;
+    padding: 50px 50px;
+    
 }
